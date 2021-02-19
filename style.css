@@ -106,6 +106,37 @@ header{
     text-align:center;
 }
 
+header h1{
+    justify-content:center;
+    align-items:center;
+    display:inline-block;
+
+    letter-spacing: -2px;
+}
+
+/*+++++logo++++++*/
+.your{
+    color: #fff;
+    font-weight: normal;
+}
+
+.dot{
+    color:green;
+    font-weight: normal;
+}
+
+.finance{
+    color:#fff;
+    font-weight: normal;
+}
+
+.money{
+    color:green;
+    font-weight: normal;
+}
+
+/*++++++++++++++*/
+
 #logo{
     color: #fff;
     font-weight: 100;
